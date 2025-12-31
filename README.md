@@ -13,6 +13,9 @@ My technical stack includes MySQL for relational data management and Git for ver
 
 Outside of work, I enjoy exploring geopolitics and international affairs, practicing javelin throw, gaming, and sharing creative ideas with friends.
 
+[![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhupendra763&theme=dark)](https://github.com/bhupendra763)
+
+
 ## 🚀 Skills & Technologies
 
 ### 👨‍💻 Programming Languages
