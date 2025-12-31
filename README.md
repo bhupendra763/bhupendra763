@@ -60,6 +60,14 @@ Outside of work, I enjoy exploring geopolitics and international affairs, practi
 - Backend System Design Basics
 
 
+## Contact
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.bhupendra08@gmail.com) [![Mail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-singh-gour/) [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhupendra_singh_16/) [![Instagram]
+
+
+![Snake animation](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/assets/github-contribution-grid-snake.svg)
+<!---
+
+
 <!--
 **bhupendra763/bhupendra763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
