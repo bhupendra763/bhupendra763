@@ -1,4 +1,4 @@
-![](https://github.com/bhupendra763/bhupendra763/blob/main/Banner.png)
+![](https://github.com/bhupendra763/bhupendra763/blob/main/Banner-2.png)
 # Bhupendra Singh Gour
 ### Backend Software Engineer (Java | Spring Boot)  
 Data Scientist | AI/ML Engineer  
