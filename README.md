@@ -4,7 +4,7 @@
 Data Scientist | AI/ML Engineer  
 Python • ML • Deep Learning • Kubernetes
 
-Welcome to my GitHub profile! 👋 
+Welcome to my GitHub profile! 👋<br> 
 Hi! I'm Bhupendra Singh Gour — a results-driven Software Engineer who thrives on building scalable, high-performance applications powered by intelligent technologies. My expertise spans across Java and Spring Boot for backend development, and Python with Flask for building data-driven AI systems.
 
 Passionate about Artificial Intelligence and Machine Learning, I’m constantly exploring how automation, predictive analytics, and Deep Learning can reshape user experiences and decision-making. I also work with modern DevOps tools like Kubernetes and Docker to ensure seamless deployment and scalability of production-ready applications.
@@ -61,10 +61,13 @@ Outside of work, I enjoy exploring geopolitics and international affairs, practi
 
 
 ## Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.bhupendra08@gmail.com) [![Mail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-singh-gour/) [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhupendra_singh_16/) [![Instagram]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.bhupendra08@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-singh-gour/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhupendra_singh_16/)
 
 
-![Snake animation](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/assets/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/bhupendra763/bhupendra763/blob/main/github-contribution-grid-snake.svg)
 <!---
 
 
