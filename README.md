@@ -1,7 +1,7 @@
 ![](https://github.com/bhupendra763/bhupendra763/blob/main/Banner-2.png)
 # Bhupendra Singh Gour
-### Backend Software Engineer (Java | Spring Boot) |Data Scientist | AI/ML Engineer |
-Python • ML • Deep Learning • Kubernetes
+### Backend Software Engineer (Java | Spring Boot) |Data Scientist | AI/ML Engineer 
+Python • ML • Deep Learning • Kubernetes <br>
 Welcome to my GitHub profile! 👋<br> 
 Hi! I'm Bhupendra Singh Gour — a results-driven Software Engineer who thrives on building scalable, high-performance applications powered by intelligent technologies. My expertise spans across Java and Spring Boot for backend development, and Python with Flask for building data-driven AI systems.
 
