@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/bhupendra763/bhupendra763/main/Gemini_Generated_Image_gmhl1ygmhl1ygmhl.png)
+![](https://github.com/bhupendra763/bhupendra763/blob/main/Banner.png)
 # Bhupendra Singh Gour
 ### Backend Software Engineer (Java | Spring Boot)  
 Data Scientist | AI/ML Engineer  
